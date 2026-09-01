@@ -2,9 +2,9 @@
 
 Independent research in monetary economics, inflation, banking, and macroeconomics.
 
-## Reconsidering Money and Inflation Groundwork for an Alternative Macro Basis
+## Reconsidering Money and Inflation: Groundwork for an Alternative Macro Basis
 
-[Read the paper (PDF)](Reconsidering Money and Inflation: Groundwork for an Alternative Macro Basis.pdf)
+[Read the paper (PDF)](Reconsidering Money and Inflation Groundwork for an Alternative Macro Basis.pdf)
 
 Develops an alternative framework for defining and measuring money and general inflation.
 
